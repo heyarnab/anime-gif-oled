@@ -1,5 +1,5 @@
 # gif into frames
--esp32
+esp32
 
--ssd1306
+ssd1306
 
