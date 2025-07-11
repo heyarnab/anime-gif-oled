@@ -1,4 +1,4 @@
-# gif into frames
+# anime dance
 esp32
 
 ssd1306
