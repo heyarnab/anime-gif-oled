@@ -1,4 +1,5 @@
 # gif into frames
-esp32
-ssd1306
+-esp32
+
+-ssd1306
 
